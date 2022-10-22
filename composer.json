@@ -5,11 +5,5 @@
             "Jo\\Ipt10Strapi\\": "src/"
         }
     },
-    "authors": [
-        {
-            "name": "JoGarcia719",
-            "email": "garcia.josephandrew@auf.edu.ph"
-        }
-    ],
     "require": {}
 }
