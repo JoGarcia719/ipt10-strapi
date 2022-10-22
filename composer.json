@@ -1,0 +1,15 @@
+{
+    "name": "jo/ipt10-strapi",
+    "autoload": {
+        "psr-4": {
+            "Jo\\Ipt10Strapi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JoGarcia719",
+            "email": "garcia.josephandrew@auf.edu.ph"
+        }
+    ],
+    "require": {}
+}
